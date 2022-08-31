@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected-images</folder>
+	<filename>A.7508d53b-ed2c-11ec-b5d7-342eb7af1945.jpg</filename>
+	<path>C:\Users\Gerome Andrew\Desktop\Projects\Sign_Language_Recognition\Tensorflow\workspace\images\collected-images\A.7508d53b-ed2c-11ec-b5d7-342eb7af1945.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>86</ymin>
+			<xmax>198</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
