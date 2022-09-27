@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Y.c94adb3a-3ce2-11ed-a969-8c882b60efce.jpg</filename>
+	<path>C:\Users\Kenneth David\source\repos\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Y.c94adb3a-3ce2-11ed-a969-8c882b60efce.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>157</ymin>
+			<xmax>150</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
